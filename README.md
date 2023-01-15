@@ -16,3 +16,5 @@
 Если хотя бы одна из команд не выполнена, все последующие тоже отменяются. Так происходит, к примеру, с оплатой онлайн, когда нужно последовательно ввести данные и 
 подтвердить платёж. Например, BEGIN TRANSACTION — начало транзакции, COMMIT TRANSACTION — изменение команд в цепочке, а SAVE TRANSACTION — промежуточная точка 
 сохранения внутри транзакции.
+
+![1](https://sun9-west.userapi.com/sun9-50/s/v1/ig2/ebu945JobxqMCPWUE8yXmiaHlfERsFpmYmNFPl-0TXEDNvstYeTqZN_ejxQmt9Z8F0_jn639r18kHGnpZEVPkbXA.jpg?size=946x713&quality=96&type=album)
