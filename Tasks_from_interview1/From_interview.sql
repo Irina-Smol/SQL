@@ -29,6 +29,6 @@ WITH sales as
          s.month,
          s.group,
          SUM(s.cnt) OVER(PARTITION BY s.group
-                         ORDER s.year, s.month)
+                         ORDER BY s.year, s.month)
   FROM sales s
   ORDER BY s.group, s.year, s.month
